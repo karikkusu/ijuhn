@@ -1,0 +1,138 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "What is the oldest university in the Philippines?",
+		            "content" : [
+		                "West Visayas State University",
+		                "university santo tomas",
+		                "University of the Philippines Diliman",
+		                "University of the Philippines Cebu"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Who was the tribal leader of Mactan who defeated Magellan?",
+		            "content" : [
+		                "Lapulapu",
+		                "The Rock",
+		                "Rajah Humabon",
+		                "Mahatma Ghandi"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What is the oldest Philippine city?",
+		            "content" : [
+		                "Manila",
+		                "Cebu",
+		                "Makati",
+		                "Pasig"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Who was the first president of the Philippines?",
+		            "content" : [
+		                "Ferdinand E. Marcos",
+		                "Rodrigo Duterte",
+		                "Jose Mari Chan",
+		                "Donald Trump"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "In which year was Martial Law declared in the Philippines?",
+		            "content" : [
+		                "December 40, 3081",
+		                "September 21, 1976",
+		                "Febuary 1, 1956",
+		                "September 21, 1972"
+		            ],
+		            "correct" : 4
+		        },
+				{
+				    "correct": 3,
+				    "content": [
+				        "34",
+				        "39",
+				        "36",
+				        "21"
+				    ],
+				    "question": "How old was Jose Rizal when he was executed? "
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Mi Ultimo Adios",
+				        "Noli Me Tangere",
+				        " Aves De Rapina ",
+				        "El Filibusterismo"
+				    ],
+				    "question": "Which of these isn’t a written work of Jose Rizal?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "June 12, 1898",
+				        "June 26, 1857",
+				        "June 26, 1898",
+				        "June 12, 1848"
+				    ],
+				    "question": "what date was Philippine Independence proclaimed?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "1968",
+				        "1929",
+				        "1901",
+				        "1965"
+				    ],
+				    "question": "In what year did the Philippine Revolution against Spain begin?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Diosdado Macapagal",
+				        "Jose Abad Santos",
+				        "Carlos P Garci",
+				        "Jose P. Laurel"
+				    ],
+				    "question": "Which of these wasn’t a President of the Philippines?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "yes",
+				        "no",
+				        "maybe",
+				        "idk"
+				    ],
+				    "question": "President Ramon Magsaysay was killed in a car accident?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Jose Abad Santos",
+				        "Manuel L. Quezon",
+				        "Jose P. Laurel",
+				        "Bongbong Marcos"
+				    ],
+				    "question": "who is the second president of the Philippines?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "June 12, 1898",
+				        "June 26, 1857",
+				        "June 26, 1898",
+				        "June 12, 1848"
+				    ],
+				    "question": "what date was Philippine Independence proclaimed?"
+				}
+		    ]
+		}
+	]
+}
