@@ -10,7 +10,7 @@
 		                "University of the Philippines Diliman",
 		                "University of the Philippines Cebu"
 		            ],
-		            "correct" : 1
+		            "correct" : 0
 		        },
 		        {
 		            "question" : "Who was the tribal leader of Mactan who defeated Magellan?",
@@ -20,7 +20,7 @@
 		                "Rajah Humabon",
 		                "Mahatma Ghandi"
 		            ],
-		            "correct" : 1
+		            "correct" : 0
 		        },
 		        {
 		            "question" : "What is the oldest Philippine city?",
@@ -30,7 +30,7 @@
 		                "Makati",
 		                "Pasig"
 		            ],
-		            "correct" : 2
+		            "correct" : 1
 		        },
 		        {
 		            "question" : "Who was the first president of the Philippines?",
@@ -40,7 +40,7 @@
 		                "Jose Mari Chan",
 		                "Donald Trump"
 		            ],
-		            "correct" : 1
+		            "correct" : 0
 		        },
 		        {
 		            "question" : "In which year was Martial Law declared in the Philippines?",
@@ -50,10 +50,10 @@
 		                "Febuary 1, 1956",
 		                "September 21, 1972"
 		            ],
-		            "correct" : 4
+		            "correct" : 3
 		        },
 				{
-				    "correct": 3,
+				    "correct": 2,
 				    "content": [
 				        "34",
 				        "39",
@@ -63,7 +63,7 @@
 				    "question": "How old was Jose Rizal when he was executed? "
 				},
 				{
-				    "correct": 3,
+				    "correct": 2,
 				    "content": [
 				        "Mi Ultimo Adios",
 				        "Noli Me Tangere",
@@ -73,7 +73,7 @@
 				    "question": "Which of these isn’t a written work of Jose Rizal?"
 				},
 				{
-				    "correct": 1,
+				    "correct": 0,
 				    "content": [
 				        "June 12, 1898",
 				        "June 26, 1857",
@@ -83,7 +83,7 @@
 				    "question": "what date was Philippine Independence proclaimed?"
 				},
 				{
-				    "correct": 2,
+				    "correct": 1,
 				    "content": [
 				        "1968",
 				        "1929",
@@ -93,7 +93,7 @@
 				    "question": "In what year did the Philippine Revolution against Spain begin?"
 				},
 				{
-				    "correct": 2,
+				    "correct": 1,
 				    "content": [
 				        "Diosdado Macapagal",
 				        "Jose Abad Santos",
@@ -103,7 +103,7 @@
 				    "question": "Which of these wasn’t a President of the Philippines?"
 				},
 				{
-				    "correct": 2,
+				    "correct": 1,
 				    "content": [
 				        "yes",
 				        "no",
@@ -113,7 +113,7 @@
 				    "question": "President Ramon Magsaysay was killed in a car accident?"
 				},
 				{
-				    "correct": 2,
+				    "correct": 1,
 				    "content": [
 				        "Jose Abad Santos",
 				        "Manuel L. Quezon",
@@ -123,7 +123,7 @@
 				    "question": "who is the second president of the Philippines?"
 				},
 				{
-				    "correct": 1,
+				    "correct": 0,
 				    "content": [
 				        "June 12, 1898",
 				        "June 26, 1857",
